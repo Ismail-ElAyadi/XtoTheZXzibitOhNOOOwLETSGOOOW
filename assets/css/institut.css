@@ -1,0 +1,27 @@
+.li-of-li{
+    font-style: italic;
+    list-style: none;
+    font-size:0.9rem;
+    
+}
+.title-liste-service{
+margin-top: 1rem;
+margin-bottom: 0 !important;
+}
+.prix{
+    padding:0.2rem;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: underline;
+}
+h3 {
+    text-decoration: underline;
+    margin-bottom: 0.1rem;
+}
+.mini {
+    font-size: smaller;
+}
+
+.alert {
+    font-weight: bold;
+}

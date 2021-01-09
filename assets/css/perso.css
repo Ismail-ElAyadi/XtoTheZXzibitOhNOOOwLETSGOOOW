@@ -195,7 +195,7 @@ img {vertical-align: middle;}
 }
 
 .active, .dot:hover {
-  background-color: #717171;
+  background-color: #ffffff;
 }
 
 /* Fading animation */
@@ -229,7 +229,28 @@ img {vertical-align: middle;}
     flex-direction: column;
     align-items: center;
 }
+.mt{
+  margin-top: 1.5rem;
+}
+.mt a {
+  background-color:#e44c65 !important
+}
+.mt a:hover {
+  background-color:white !important
+}
+.no-p{
+  padding: 0 !important;
+}
+.padding-little{
+  padding:1rem !important;
+}
+.mb-05{
+  margin-bottom: 0.5rem !important;
+}
 
+.distance-img {
+  margin-bottom: 0.5rem !important;
+}
 @media screen and (min-width:981px) {
     .h-v{
         height: 46em !important;
